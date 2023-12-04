@@ -1,0 +1,28 @@
+    body, h1, h2, p {
+        margin: 0;
+        padding: 0;
+        }
+        /* Global Styles */
+    header{
+        background-color: rgb(47, 100, 141);
+        padding: 3rem;
+        
+        text-align: center;
+        margin-top: auto;
+        color: tomato;
+    }
+    footer{
+
+        background-color: rgb(47, 100, 141);
+        padding: 3rem;
+        margin-top: auto;
+    }
+    main{
+        background-color: bisque;
+        padding: 5px;
+    }
+    .photo{
+
+        height: 50%;
+        max-width:1000px;
+    }
